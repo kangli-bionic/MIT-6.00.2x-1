@@ -1,77 +1,54 @@
-# MIT-6.00.1x
+# MIT-6.00.2x
 
-My MIT 6.00.1x course work. You cannot copy paste answers, you can use them as reference to your own solutions.
+My MIT 6.00.2x course work. You cannot copy paste answers, you can use them as reference to your own solutions.
 
 ## List of Course Topics
 
-* Lecture 1 – Introduction:
-  * What a computer does
-  * Computational thinking
-  * Aspects of programming languages
-  * Basic machine architecture
-* Lecture 2 – Core elements of programs:
-  * Kinds of languages
-  * Objects, expressions, operators
-  * Abstraction by naming
-  * Strings
-  * Scripts
-  * Straightline programs
-  * Branching programs
-* Lecture 3 – Simple algorithms:
-  * Simple programs
-  * Iteration
-  * Input
-  * Exhaustive enumeration
-  * Guess and check
-  * For and while loops
-  * Approximate solutions
-  * Bisection search
-  * Newton-Raphson
-* Lecture 4 – Functions:
-  * Function syntax
-  * Abstraction by specification
-  * Functions and scoping
-  * Floating point numbers
-  * Specifications
-  * Modules
-* Lecture 5 – Recursion:
-  * Recursion
-  * Inductive reasoning
+* Lecture 1 – Optimization and Knapsack Problem:
+  * Computational models
+  * Intro to optimization
+  * 0/1 Knapsack Problem
+  * Greedy solutions
+* Lecture 2 – Decision Trees and Dynamic Programming:
+  * Decision tree solution to knapsack
+  * Dynamic programming and knapsack
   * Divide and conquer
-* Lecture 6 – Objects:
-  * Structured types and mutability
-  * Tuples
-  * Lists and mutability
-  * Functions as objects
-  * Dictionaries
-* Lecture 7 – Debugging:
-  * Testing and debugging
-  * Black box testing
-  * Glass box testing
-  * Integration testing and unit testing
-  * Debugging with binary search
-* Lecture 8 – Assertions and Exceptions
-  * Assertions
-  * Exceptions
-* Lecture 9 – Efficiency and orders of growth:
-  * Complexity
-  * How to measure complexity
-  * Asymptotic notation
-* Lecture 10 – Memory and search:
-  * Memory storage
-  * Indirection
-  * Searching and sorting methods
-  * Hashing
-* Lecture 11 – Classes:
-  * Definition of classes
-  * Classes versus instances
-  * Methods
-  * Bindings of values
-  * Exceptions
-* Lecture 12 – Object Oriented Programming and Inheritance:
-  * Inheritance
-  * Object oriented programming
-* Lecture 13 – Trees:
-  * Decision trees
-  * Depth-first search
-  * Breadth-first search
+* Lecture 3 – Graphs:
+  * Graph problems
+  * Shortest path
+  * Depth first search
+  * Breadth first search
+* Lecture 4 – Plotting:
+  * Visualizing Results
+  * Overlapping Displays
+  * Adding More Documentation
+  * Changing Data Display
+  * An Example
+* Lecture 5 – Stochastic Thinking:
+  * Rolling a Die
+  * Random walks
+* Lecture 6 – Random Walks:
+  * Drunk walk
+  * Biased random walks
+  * Treacherous fields
+* Lecture 7 – Inferential Statistics:
+  * Probabilities
+  * Confidence intervals
+* Lecture 8 – Monte Carlo Simulations:
+* Lecture 9 – Monte Carlo Simulations:
+  * Sampling
+  * Standard error
+* Lecture 10 – Experimental Data:
+  * Errors in Experimental Observations
+  * Curve Fitting
+* Lecture 11 – Experimental Data:
+  * Goodness of Fit
+  * Using a Model for Predictions
+* Lecture 12 – Machine Learning:
+  * Feature Vectors
+  * Distance Metrics
+  * Clustering
+* Lecture 13 – Statistical Fallacies
+  * Misusing Statistics
+  * Garbage In Garbage Out
+  * Data Enhancement
